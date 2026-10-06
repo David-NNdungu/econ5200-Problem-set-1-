@@ -31,7 +31,7 @@ These results describe a simulation. Applying the correction to a real retailer 
 
 ## Files
 
-- `Econ_5200_PS1.ipynb`: completed notebook with calculations, explanations and the board slide.
+- `Econ_5200_PS1_final.ipynb`: completed notebook with calculations, explanations and the board slide.
 - `src/basket_metrics.py`: reusable functions for the column audit and alternative basket statistics.
 - `ai-appendix.md`: the P.R.I.M.E. prompt, full AI review response and change log.
 
